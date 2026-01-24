@@ -1,6 +1,6 @@
 # Sports Betting Dashboard
 
-A modern sports betting and fantasy football dashboard built with React, Java Spring Boot, and MongoDB.
+A modern sports betting and fantasy football dashboard built with React, Java Spring Boot, and MongoDB
 
 ## Features
 
