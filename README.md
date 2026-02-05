@@ -20,7 +20,7 @@ A modern sports betting and fantasy football dashboard built with React, Java Sp
 - JWT authentication
 - Responsive design
 
-### Backend.
+### Backend
 - Java 17
 - Spring Boot 3.1.5
 - Spring Security with JWT
@@ -28,7 +28,7 @@ A modern sports betting and fantasy football dashboard built with React, Java Sp
 - RESTful API design
 
 ### Database
-- MongoDB for data storage
+- MongoDB for data storage,
 - Sample player data included
 
 ## Getting Started
