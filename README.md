@@ -8,7 +8,7 @@ A modern sports betting and fantasy football dashboard built with React, Java Sp
 - 🌓 **Dark/Light Theme** - Toggle between themes
 - ⚽ **Player Statistics** - Comprehensive player data and rankings
 - 📊 **Dashboard** - Live matches, statistics, and fantasy team management
-- 🏆 **Multiple Pages** - Players, Matches, Leagues, Statistics, Betting, Profile
+- 🏆 **Multiple Pages** - Players, Matches, Leagues, Statistics.Betting, Profile
 - 📱 **Responsive Design** - Modern UI with TailwindCSS
 
 ## Tech Stack
